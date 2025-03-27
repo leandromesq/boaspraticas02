@@ -6,4 +6,5 @@ Implementadas soluções SOLID para os Exemplos 2 do repositório: https://githu
 Grupo:
 
 Leandro Mesquita
+
 Julio Eduardo de Carvalho Almeron
