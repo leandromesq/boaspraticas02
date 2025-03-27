@@ -22,9 +22,4 @@ public class ProcessadorEncomendas {
         System.out.println("Valor do frete calculado: " + valorFrete);
         salvarEmArquivo.salvar(idEncomenda, valorFrete);
     }
-
-    public static void main(String[] args) {
-        ProcessadorEncomendas processadorEncomendas = new ProcessadorEncomendas();
-        processadorEncomendas.processar();
-    }
 }
